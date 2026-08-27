@@ -1,15 +1,16 @@
-GLM Documentos - Landing Page
+GLM Documentos - Landing Page V2
 
 Arquivos:
 - index.html
 - styles.css
 - script.js
-- assets/logo-glm.png
-- assets/busca-prestadores.png
-- assets/documentos-industria.png
+- assets/
 
-Teste local:
+Para testar localmente:
 python -m http.server 8000
-Depois abra http://localhost:8000
 
-Para publicar no GitHub Pages, envie todo o conteúdo desta pasta para a raiz do repositório.
+Acesse:
+http://localhost:8000
+
+Todos os botões principais de acesso/cadastro apontam para:
+https://www.glmdocumentos.com.br/company-portal/login
